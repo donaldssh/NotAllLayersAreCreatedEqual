@@ -11,9 +11,12 @@
 
 
 [![website](https://img.shields.io/badge/Project-Page-green)](https://donaldssh.github.io/NotAllLayersAreCreatedEqual)
-[![arXiv](https://img.shields.io/badge/arXiv-..-red)](https://arxiv.org/abs/..)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.21884-red)](https://arxiv.org/abs/2603.21884)
 [![BibTeX](https://img.shields.io/badge/Cite_us-BibTeX-blue)](#Citation)
-  
+
+
+![Paper teaser](docs/images/teaser.jpg)
+
 </div>
 
 Code coming soon!
@@ -32,7 +35,7 @@ In this paper, we take a first step to overcome this challenge. Inspired by vari
 @article{shenaj2026not,
   title={Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation},
   author={Shenaj, Donald and Errica, Federico and Carta, Antonio},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2603.21884},
   year={2026}
 }
 ```
